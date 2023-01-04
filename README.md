@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://vistr.dev/badge?repo=tds01088.tds01088) 
 
- ![visitors](https://page-views.glitch.me/badge?page_id=page.id)
+ ![visitors](https://page-views.glitch.me/badge?page_id= ${tds01088}.${tds01088})
+ ${your.username}.${your.repo.id}
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
